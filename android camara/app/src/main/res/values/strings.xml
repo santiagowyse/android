@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">indeximplicit</string>
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+
+
+    <string name="edittext_share">Twas brilling and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+    <string name="btncamara">indeximplicit</string>
+
+</resources>

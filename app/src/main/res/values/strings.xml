@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Botones</string>
+    <string name="click">click</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="seleccion">seleccion</string>
+    <string name="icono_estrella">estrella</string>
+    <string name="Aceptar">aceptar</string>
+    <string name="Cancelar">cancelar</string>
+</resources>
